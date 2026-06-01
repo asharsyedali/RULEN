@@ -1,0 +1,6 @@
+{
+  "name": "RULEN",
+  "description": "Real-Time Unified Lecture Extraction Network - AI-Powered Academic Presentation and Demo Platform for UMT Lahore",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
